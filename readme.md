@@ -9,21 +9,22 @@ Check the website
 
 <!-- Main \n <!-- Nav bar -->
 
-## Story
-## Ingredients
-## Equipment
-## Process
-
+## - Story
+## - Ingredients
+## - Equipment
+## - Process
+```
 ### Mixing
 ### Folding
 ### Proofing
 ### Baking
-
-## Schedule
-## Result
-
+```
+## - Schedule
+## - Result
+## - Contact Us
 <!-- Footer -->
 
+# Light house report
 ![Lighthouse report](img/lighthouse.png)
 
 ## Citations
